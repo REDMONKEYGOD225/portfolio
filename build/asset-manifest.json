@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/portfolio/static/js/main.3ca96c64.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/matrix.gif": "/portfolio/static/media/matrix.c8d5a2ac0d0a61a58e54.gif",
+    "static/media/SimpleSlider.js.webp": "/portfolio/static/media/SimpleSlider.js.da9adba3246e312e7f7c.webp",
+    "static/media/Creating-Numeric-Increment-Decrement-Component-Using-Reactjs.jpg": "/portfolio/static/media/Creating-Numeric-Increment-Decrement-Component-Using-Reactjs.2df20f57acc4b208b50e.jpg",
+    "static/media/jean paul.jpg": "/portfolio/static/media/jean paul.05a3d34e33abd4d10905.jpg",
+    "static/media/shelby limited company.jpg": "/portfolio/static/media/shelby limited company.8e66ec96c7ab9f5184c9.jpg",
+    "static/media/calculatrice.png": "/portfolio/static/media/calculatrice.a086c063effe5da60507.png",
+    "static/media/pomodoro.png": "/portfolio/static/media/pomodoro.73f51481206b59801afc.png",
+    "static/media/strongly typed.png": "/portfolio/static/media/strongly typed.9afae77eb0a429034f9b.png",
+    "static/media/comeup.webp": "/portfolio/static/media/comeup.fb093d653161d78b4b60.webp",
+    "index.html": "/portfolio/index.html",
+    "main.e6c13ad2.css.map": "/portfolio/static/css/main.e6c13ad2.css.map",
+    "main.3ca96c64.js.map": "/portfolio/static/js/main.3ca96c64.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3ca96c64.js"
+  ]
+}
